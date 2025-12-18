@@ -1,6 +1,6 @@
 # Cadastro de clientes
 
-Olá, esse projeto foi realizado durante meus estudos de Python voltados para Back-end, o objetivo foi implementar em um exercício temas como banco de dados, funções, introdução a biblioteca streamlit e pandas.
+Olá, esse projeto foi realizado durante meus estudos de Python voltados para Back-end, o objetivo foi implementar em um exercício temas como banco de dados, funções, introdução ao framework streamlit e biblioteca pandas.
 
 ## 🚀 Começando
 
@@ -25,7 +25,7 @@ Python, SQLITE e Streamlit
 
 - [Python](https://www.python.org/) - Linguagem de Programação
 - [SQLITE](https://sqlite.org/) - Banco de Dados
-- [Streamlit](https://streamlit.io/) - Biblioteca Interativa Web
+- [Streamlit](https://streamlit.io/) - Framework Interativa Web
 
 ## ✒️ Autores
 
