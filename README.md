@@ -8,7 +8,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 <h2>Clique Aqui ⬇</h2> 
 Projeto Cadastro de clientes em tempo real:
-https://imc-calc-juan.netlify.app
+https://cadastro-cliente-juanvictor.streamlit.app
 
 ### 📋 Pré-requisitos
 
